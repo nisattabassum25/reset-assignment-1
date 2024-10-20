@@ -139,3 +139,36 @@ display: flex;
     width: 370px;
     height: 250;
 }
+
+/* section4 */
+.class{
+    color: white;
+}
+
+.support{
+    background-image: url("../assets/handshake.jpg");
+    background-repeat: no-repeat;
+    height: 320px;
+    width: 1900px;
+    background-position: center;
+    padding-top: 50px;
+}
+.btn-primary{
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    border: none;
+    padding: 18px 35px;
+    margin-left: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.Learn{
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    border: none;
+    padding: 18px 35px;
+    border-radius: 5px;
+    width: 500px;
+}
