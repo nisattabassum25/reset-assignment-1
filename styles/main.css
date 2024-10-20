@@ -108,4 +108,34 @@ display: flex;
 .skills{
     box-shadow: white;
 }
+/* ---section3--- */
+.developers{
+    display: flex;
+    gap: 80px;
+    margin-left: 170px;
+    margin-right: 80px;
+    padding: 25px 25px 25px 25px;
+}
 
+.color{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 40px;
+    width: 370px;
+    height: 300px;
+}
+.colors{
+    background-color: hwb(180 91% 3%);
+    border-radius: 10px;
+    padding: 40px;
+    width: 370px;
+    height: 300px;
+
+}
+.colorss{
+    background-color: hwb(0 84% 5%);
+    border-radius: 10px;
+    padding: 40px;
+    width: 370px;
+    height: 250;
+}
